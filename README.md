@@ -30,7 +30,7 @@ These are the following rules we came up with fir the game;
 5. The player wins after defeating all enemy waves.
 
 
-# Plan for the Gamm
+# Plan for the Game
 
 - **Enemies**: circles moving along a path.
 - **Towers**: squares placed by the player.
