@@ -1,16 +1,19 @@
 # TOWER-DEFENSE-GAME
-**Project Description**
+##Project Description
+
 We are planning to build a simple Tower Defense game using C++ and the SFML library.  
 Our focus is to keep everything simple, using basic shapes (rectangles andd circles) for towers, enemies, and paths.
 
 
 
-**Game Approach**
+##Game Approach
+
 We chose a top-down approach because it is easier to visualize enemies moving along a path and makes tower placement clear for the playerss.
 
 
 
-**Why SFML?**
+##Why SFML?
+
 Based on our research and what we learnt from class;
 - it is easy to learn and works well with C++.
 -  it also handles graphics, sound, and input in one library.
@@ -18,7 +21,7 @@ Based on our research and what we learnt from class;
 - it also Works across platforms (Windows, Linux, Mac).
 
 
-**Game Rules**
+##Game Rules
 These are the following rules we came up with fir the game;
 1. The enemies will move along a fixed path.
 2. The player will have to place towers along the path.
@@ -27,13 +30,14 @@ These are the following rules we came up with fir the game;
 5. The player wins after defeating all enemy waves.
 
 
-**Plan for the Look**
+##Plan for the Look
+
 - **Enemies**: circles moving along a path.
 - **Towers**: squares placed by the player.
 - **Path**: rectangles showing enemy route.
 - **Bullets/Attacks**: small shapes or lines.
 
 
- **Authors**
+ ##Authors
 - **Theodore Petrick Reimmer**
 - **Huseynzade Huseyn**
